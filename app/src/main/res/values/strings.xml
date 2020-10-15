@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="nama_user">Nama User</string>
+    <string name="username">Username</string>
+    <string name="follower">Follower</string>
+    <string name="company">Company</string>
+    <string name="followers">Followers</string>
+    <string name="_1k">1k</string>
+    <string name="_500">500</string>
+    <string name="following">Following</string>
+    <string name="location">Location</string>
+    <string name="repositories">Repositories</string>
+
+
+    <string-array name="data_name">
+        <item>Jaana Dogan</item>
+        <item>Ask Solem</item>
+        <item>Stephen Diehl</item>
+        <item>Fabien Potencier</item>
+        <item>Andrew Nesbitt</item>
+        <item>Taylor Otwell</item>
+        <item>Kevin Hazy</item>
+        <item>Hugo "Kitty" Giraudel</item>
+        <item>Monica Dinculescu</item>
+        <item>Jen Dewalt</item>
+        <item>R Rifa Fauzi Komara</item>
+        <item>Adam Bien</item>
+    </string-array>
+
+    <string-array name="data_username">
+        <item>rakyll</item>
+        <item>ask</item>
+        <item>sdiehl</item>
+        <item>fabpot</item>
+        <item>andrew</item>
+        <item>taylorotwell</item>
+        <item>egoist</item>
+        <item>HugoGiraudel</item>
+        <item>notwaldorf</item>
+        <item>jendewalt</item>
+        <item>rrifafauzikomara</item>
+        <item>AdamBien</item>
+    </string-array>
+
+    <string-array name="data_follower">
+        <item>9K</item>
+        <item>1.7K</item>
+        <item>2.1K</item>
+        <item>10.9K</item>
+        <item>2.4K</item>
+        <item>20.1K</item>
+        <item>7.7K</item>
+        <item>2.5K</item>
+        <item>5.9K</item>
+        <item>2.7K</item>
+        <item>200K</item>
+        <item>2.3K</item>
+    </string-array>
+
+    <string-array name="data_following">
+        <item>0</item>
+        <item>107</item>
+        <item>884</item>
+        <item>0</item>
+        <item>3.1</item>
+        <item>0</item>
+        <item>25</item>
+        <item>0</item>
+        <item>7</item>
+        <item>0</item>
+        <item>70</item>
+        <item>0</item>
+    </string-array>
+
+    <string-array name="data_repositories">
+        <item>195</item>
+        <item>86</item>
+        <item>98</item>
+        <item>48</item>
+        <item>289</item>
+        <item>16</item>
+        <item>709</item>
+        <item>37</item>
+        <item>82</item>
+        <item>6</item>
+        <item>115</item>
+        <item>102</item>
+    </string-array>
+
+    <string-array name="data_location">
+        <item>San Fransisco, CA</item>
+        <item>Palo Alto, CA</item>
+        <item>London, UK</item>
+        <item>Lille, France</item>
+        <item>UK</item>
+        <item>Little Rock, AR</item>
+        <item>China</item>
+        <item>Berlin</item>
+        <item>Sun Funcisco</item>
+        <item>SF, United States</item>
+        <item>Jakarta</item>
+        <item>Planet Java</item>
+    </string-array>
+
+    <string-array name="data_company">
+        <item>raykll@rakyll.org</item>
+        <item>robinhoodmarkets</item>
+        <item>adjoint-io</item>
+        <item>Symfony/Blackfire</item>
+        <item>Software engineer and Researcher</item>
+        <item>laravel</item>
+        <item>https://egoist.sh</item>
+        <item>N26</item>
+        <item>Google</item>
+        <item>Zube</item>
+        <item>Sinarmas-MSIG-Life</item>
+        <item>adam-bien.com</item>
+    </string-array>
+
+    <array name="data_avatar">
+        <item>@drawable/jaanadogan</item>
+        <item>@drawable/asksolem</item>
+        <item>@drawable/stephendiehl</item>
+        <item>@drawable/fabienpotencier</item>
+        <item>@drawable/andrewnesbitt</item>
+        <item>@drawable/taylorotwell</item>
+        <item>@drawable/kevinhazy</item>
+        <item>@drawable/hugo</item>
+        <item>@drawable/monikadinculescu</item>
+        <item>@drawable/jendewalt</item>
+        <item>@drawable/rifafauzikomara</item>
+        <item>@drawable/adambien</item>
+    </array>
+</resources>
